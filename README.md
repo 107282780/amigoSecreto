@@ -8,8 +8,11 @@ Este projeto foi desenvolvido como parte das atividades do curso da Alura em par
 ## 📌 Funcionalidades do Projeto
 
   ✅ Permite adicionar amigos a uma lista
+  
   ✅ Sorteia aleatoriamente um amigo secreto para um evento social
+  
   ✅ Design minimalista e impactante baseado no Brutalismo
+  
   ✅ Interface simples e fácil de usar
 
 ## 🚀 Como Usar
